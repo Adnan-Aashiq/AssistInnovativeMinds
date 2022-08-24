@@ -1,0 +1,16 @@
+{
+  "name": "assistinnovativeminds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "triggerAllTests": "npx cypress run --headed --browser edge"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.6.0",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
